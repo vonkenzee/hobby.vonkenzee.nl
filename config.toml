@@ -1,0 +1,7 @@
+title = 'Metaalbewerking voor Hobbyisten'
+baseURL = 'https://vonkenzee.nl/'
+theme = 'hugo-vonkenzee-hobby'
+languageCode = 'nl-nl'
+googleAnalytics = 'G-PV2J0QKPET'
+
+sectionPagesMenu = 'main'

@@ -1,0 +1,19 @@
+name = 'Hugo Vonkenzee Metaalbewerking'
+license = 'MIT'
+licenselink = 'https://github.com/vonkenzee/hugo-vonkenzee-hobby/LICENSE'
+description = 'The theme used for `hobby.vonkenzee.nl`'
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/vonkenzee/hugo-vonkenzee-hobby'
+
+# If you have a running demo of the theme
+demosite = 'https://hobby.vonkenzee.nl/'
+
+# Taxonomy terms
+tags = ['blog', 'company']
+features = ['some', 'awesome', 'features']
+
+# If the theme has a single author
+[author]
+name = 'Simon de Vlieger'
+homepage = 'https://supakeen.com/'
