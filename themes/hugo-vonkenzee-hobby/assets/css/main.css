@@ -24,7 +24,8 @@ header h1 {
     padding-left: 4rem;
     background-image: url("/logo.png");
     background-repeat: no-repeat;
-    background-size: auto 100%;
+    background-size: 2.75rem;
+    background-position: left center;
 }
 
 footer {
