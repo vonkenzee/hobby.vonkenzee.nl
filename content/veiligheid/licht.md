@@ -11,3 +11,7 @@ Belangrijker dan je huid zijn je ogen. Bij het zonnen doe je die dicht, of draag
 
 1. Je veiligheidsbril.
 2. Je lasfilter in je lashelm.
+
+De veiligheidsbril draag je altijd, ook onder je helm. Zie het als je onderbroek. De veiligheidsbril houdt namelijk ook UV straling tegen en biedt dus ook enige bescherming tegen een ongelukkige lasboog.
+
+Het lasfilter in je lashelm zorgt ervoor dat je ook naar de boog kan kijken terwijl deze aan is. Als je een automatisch filter hebt stel het dan zo in dat je de laspoel goed kan zien zonder dat je last hebt van zwarte stippen in je zicht als de boog weer uit gaat. Voor lassen moet je filter minstens een sterkte 9 hebben.
