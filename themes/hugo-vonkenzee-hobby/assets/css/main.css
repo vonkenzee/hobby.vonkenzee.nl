@@ -12,6 +12,8 @@ html {
 
 body {
     width: 70vw;
+    max-width: 1000px;
+    min-width: 500px;
     margin: 0 auto;
 }
 
@@ -65,4 +67,8 @@ a {
 
 p {
     line-height: 1.5rem;
+}
+
+time {
+    color: var(--subdued);
 }
