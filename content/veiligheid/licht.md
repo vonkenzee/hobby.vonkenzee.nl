@@ -9,9 +9,9 @@ De gevaarlijkste straling die uit een lasboog komt is UV-straling. Dit is dezelf
 
 Belangrijker dan je huid zijn je ogen. Bij het zonnen doe je die dicht, of draag je een zonnebril. Bij het lassen gebruik je twee dingen die je ogen beschermen:
 
-1. Je veiligheidsbril.
-2. Je lasfilter in je lashelm.
+1. Je [veiligheidsbril](/uitrusting/veiligheidsbril).
+2. Je [lasfilter](/uitrusting/lasfilter) in je [laskap](/uitrusting/laskap).
 
 De veiligheidsbril draag je altijd, ook onder je helm. Zie het als je onderbroek. De veiligheidsbril houdt namelijk ook UV straling tegen en biedt dus ook enige bescherming tegen een ongelukkige lasboog.
 
-Het lasfilter in je lashelm zorgt ervoor dat je ook naar de boog kan kijken terwijl deze aan is. Als je een automatisch filter hebt stel het dan zo in dat je de laspoel goed kan zien zonder dat je last hebt van zwarte stippen in je zicht als de boog weer uit gaat. Voor lassen moet je filter minstens een sterkte 9 hebben.
+Het lasfilter in je laskap zorgt ervoor dat je ook naar de boog kan kijken terwijl deze aan is. Als je een automatisch filter hebt stel het dan zo in dat je de laspoel goed kan zien zonder dat je last hebt van zwarte stippen in je zicht als de boog weer uit gaat. Voor lassen moet je filter minstens een sterkte 9 hebben.
