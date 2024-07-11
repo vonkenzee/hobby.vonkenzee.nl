@@ -3,6 +3,7 @@
     --back: #111;
 
     --subdued: #777;
+    --extra-subdued: #333;
 }
 
 html {
@@ -18,7 +19,7 @@ body {
 }
 
 header {
-    border-bottom: .06125rem solid var(--subdued);
+    border-bottom: .06125rem solid var(--extra-subdued);
     margin-bottom: 2rem;
 }
 
@@ -31,7 +32,7 @@ header h1 {
 }
 
 footer {
-    border-top: .06125rem solid var(--subdued);
+    border-top: .06125rem solid var(--extra-subdued);
     margin-top: 2rem;
 }
 
