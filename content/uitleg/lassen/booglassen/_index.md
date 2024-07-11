@@ -1,5 +1,5 @@
 ---
-title: "Processen"
+title: "Booglassen"
 ---
 
 Er zijn verschillende lasprocessen.
