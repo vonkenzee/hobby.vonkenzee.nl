@@ -1,3 +1,3 @@
 ---
-title: "Stok/BMBE (SMAW)"
+title: "Elektrode/BMBE (SMAW)"
 ---
