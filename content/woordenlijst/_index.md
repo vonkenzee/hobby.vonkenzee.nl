@@ -33,6 +33,7 @@ even een [e-mail](mailto:hobby@vonkenzee.nl).
 # S
 
 - **SMAW** -- Shielded Metal Arc Welding. SMAW is een [lasmethode](/uitleg/lassen/booglassen/smaw) die ook wel stick, stok, elektrode, of BMBE genoemd word.
+- **Slak** -- Glasachtig materiaal wat achterblijft op een las. Komt het meest voor bij [Elektrode lassen](/uitleg/lassen/booglassen/smaw) of [MIG/MAG met gevulde draad](/uitleg/lassen/booglassen/gmaw) omdat de coating die [beschermgas](/uitrusting/beschermgas) en flux maakt smelt tijdens het lassen en daarna achter blijft op de las.
 
 # T
 
