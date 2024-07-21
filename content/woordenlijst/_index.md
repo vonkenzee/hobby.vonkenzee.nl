@@ -24,6 +24,7 @@ even een [e-mail](mailto:hobby@vonkenzee.nl).
 # K
 
 - **KGW** -- Koud- gerold of gewalsd [staal](/materiaal/staal).
+- **Koker** -- Een vierkante buis, een van de [vormen](/uitleg/vormen) waarin metaal geleverd word.
 
 # M
 
